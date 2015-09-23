@@ -1,0 +1,28 @@
+{
+  "name": "create-date",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Create a date without using the 'new' keyword",
+  "license": "MIT",
+  "repository": "bendrucker/create-date",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "date",
+    "new",
+    "create"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
