@@ -1,4 +1,4 @@
-# create-date [![Build Status](https://travis-ci.org/bendrucker/create-date.svg?branch=master)](https://travis-ci.org/bendrucker/create-date)
+# create-date [![Build Status](https://travis-ci.org/bendrucker/create-date.svg?branch=master)](https://travis-ci.org/bendrucker/create-date) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/create-date.svg)](https://greenkeeper.io/)
 
 > Create a date without using the 'new' keyword
 
